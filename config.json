@@ -1,0 +1,9 @@
+{
+  "name": "Pangoling VPN",
+  "version": "1.0.0",
+  "description": "",
+  "api": {
+    "http://www.1",
+    "http://www.2"
+  }
+}
