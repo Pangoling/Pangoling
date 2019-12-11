@@ -1,8 +1,5 @@
 {
   "LATEST_VERSION": "1.0.0",
-  "APP_CONFIG_URL": "",
-  "API": {
-    "http://www.1",
-    "http://www.2"
-  }
+  "APP_CONFIG_URL": "https://cdn.jsdelivr.net/gh/pangoling/pangoling@latest/config.json",
+  "API": "http://www.1",
 }
