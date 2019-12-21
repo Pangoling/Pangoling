@@ -1,5 +1,5 @@
 {
   "LATEST_VERSION": "1.0.0",
   "APP_CONFIG_URL": "https://cdn.jsdelivr.net/gh/pangoling/pangoling@latest/config.json",
-  "API": "http://www.pangoling.com/route=api/vpn",
+  "API": "http://www.pangoling.com/index.php?route=api/vpn",
 }
