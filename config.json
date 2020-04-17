@@ -1,5 +1,29 @@
 {
   "LATEST_VERSION": "1.0.1",
   "CONFIG_URL": "https://cdn.jsdelivr.net/gh/pangoling/pangoling@latest/config.json",
-  "API": "https://www.pangoling.com/index.php?route=api/vpn"
+  "API": "https://www.pangoling.com/index.php?route=api/vpn",
+  "IAP": {
+    "Apple":[
+      {
+        "id": "com.pangoling.ios.client.iap.onemonth.200417.gpu2ED9h",
+        "alias": "1Month Premium",
+        "type": "non renewing subscription"
+      },
+      {
+        "id": "com.pangoling.ios.client.iap.threemonth.200417.zPtNoum3",
+        "alias": "3Month Premium",
+        "type": "non renewing subscription"
+      },
+      {
+        "id": "com.pangoling.ios.client.iap.sixmonth.200417.8gWsQ5af",
+        "alias": "6Month Premium",
+        "type": "non renewing subscription"
+      },
+      {
+        "id": "com.pangoling.ios.client.iap.oneyear.200417.IB1tvcsO",
+        "alias": "12Month Premium",
+        "type": "non renewing subscription"
+      }
+    ]
+  }
 }
