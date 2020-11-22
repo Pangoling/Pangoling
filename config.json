@@ -1,7 +1,7 @@
 {
   "LATEST_VERSION": "1.0.5",
   "CONFIG_URL": "https://cdn.jsdelivr.net/gh/pangoling/pangoling@latest/config.json",
-  "API": "https://www.pangoling.com/index.php?route=api/vpn",
+  "API": "https://104.168.11.105/index.php?route=api/vpn",
   "IAP": {
     "Apple":[
       {
